@@ -1,0 +1,3 @@
+[submodule "grammars/smithy"]
+	path = grammars/smithy
+	url = https://github.com/indoorvivants/tree-sitter-smithy
